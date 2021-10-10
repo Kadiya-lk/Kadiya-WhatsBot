@@ -1,19 +1,15 @@
 <div align="center">
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
-  <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
+  <img src="https://telegra.ph/file/682f2a73444268d072fad.png" width="300" height="300">
+  <h1>👸💎Kadiya From QUEEN AMDI PROJECT 💎👸</h1>
 </div>
 <p align="center">
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
     <br>
-        <a href="https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD">Whatsapp Group</a> |
-        <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
     <br>
 </p>
-
-----
 <div align="center">
-	<h1>Visit our official website to install the Whatsapp Bot :</h1>
-	<a href="https://www.amdaniwasa.com">
+	<h1>Visit our Github page to install the Whatsapp Bot :</h1>
+	<a href="https://heroku.com/deploy?template=https://github.com/Kadiya-lk/Kadiya-WhatsBot">
 <img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="400"></br></a>
 </div>
 
@@ -80,7 +76,7 @@ HAVE A FUN!
 ## Visit our official website to install the Whatsapp Bot :
 QR Code generator and full instructions available there.
 <div>
-	<a href="https://www.amdaniwasa.com">
+	<a href="https://replit.com/@BlackAmda/Queen-Amdi-QR-Code">
 <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
 </div>
 
