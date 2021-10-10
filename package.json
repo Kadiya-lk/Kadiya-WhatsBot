@@ -1,6 +1,6 @@
 {
-  "name": "queen_amdi",
-  "version": "3.0.2v",
+  "name": "KadiyaBot",
+  "version": "v1.0",
   "description": "Kadiya Bot From QueenAmdi project - a Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./Kadiya-WhatsBot/bot.js",
   "scripts": {
